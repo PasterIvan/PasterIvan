@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a>Ivan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a>Ivan</a> </h1>
 <!-- ./STAT -->
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&hide_border=true&stroke=777&ring=44944A&fire=D70&currStreakNum=D70&sideNums=777&dates=777&sideLabels=777&currStreakLabel=44944A&background=D000"
