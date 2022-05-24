@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BF%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BA-928663216/">Ivan.</a> </h1>
+<h1 align="center" color='#BF59DD'>Hi there, I'm <a href="https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BF%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BA-928663216/">Ivan.</a> </h1>
 <!-- ./STAT -->
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterIvan&date_format=j%20M%5B%20Y%5D&stroke=0A9BDD&fire=DD0000&ring=BF59DD&currStreakNum=DD0000&currStreakLabel=43DDDD&sideLabels=43DDDD&sideNums=43DDDD&dates=43DDDD&background=FF000000&border=DD272700"
