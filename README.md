@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BF%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BA-928663216/">Ivan</a> </h1>
 <!-- ./STAT -->
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&hide_border=true&stroke=777&ring=44944A&fire=D70&currStreakNum=D70&sideNums=777&dates=777&sideLabels=777&currStreakLabel=44944A&background=D000"
-         title="PasterZOOM" alt="PasterZOOM"
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterIVAN&hide_border=true&stroke=777&ring=44944A&fire=D70&currStreakNum=D70&sideNums=777&dates=777&sideLabels=777&currStreakLabel=44944A&background=D000"
+         title="PasterIVAN" alt="PasterIVAN"
          width="60%"/>
 </div>
 <div align="center">
