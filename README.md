@@ -49,6 +49,6 @@
 </div>
 
 <div align="center">
-    <img src="https://www.codewars.com/users/PasterIvan/badges/small"
+    <img src="https://www.codewars.com/users/PasterIvan/badges/micro"
          title="CodeWars" alt="CodeWars"/>
 </div>
