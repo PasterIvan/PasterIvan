@@ -1,5 +1,5 @@
 <h1  align="center" >Hi there, my name is <a href="https://www.linkedin.com/in/ivan-pasternak-928663216/">Ivan</a>. I'm front-end developer. </h1> 
-<!-- ./STAT -->-
+<!-- ./STAT -->
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterIvan&date_format=j%20M%5B%20Y%5D&stroke=43DDDD&fire=DD0000&ring=BF59DD&currStreakNum=DD0000&currStreakLabel=43DDDD&sideLabels=43DDDD&sideNums=43DDDD&dates=43DDDD&background=FF000000&border=DD272700"
          title="PasterIvan" alt="PasterIvan"
